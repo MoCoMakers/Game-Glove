@@ -20,7 +20,7 @@ const int JUMP_OUT = 1 ;
 
 // LEFT: Flora D2 --> Raspberry Pi GPIO 4
 // RIGHT: Flora D0 --> Raspberry Pi GPIO 16
-// Y Button (Jump) --> Raspberry Pi GPIO 18
+// Y Button (Jump): Flora D1 --> Raspberry Pi GPIO 18
 
 // Measure the voltage at 5V and the actual resistance of your
 // 47k resistor, and enter them below:
